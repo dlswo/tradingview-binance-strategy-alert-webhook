@@ -1,0 +1,25 @@
+{
+    "passphrase": "yourpassphrase",
+    "time": "2021-07-01T08:28:00Z",
+    "exchange": "BINANCE",
+    "ticker": "BTCUSDT",
+    "bar": {
+        "time": "2021-07-01T08:28:00Z",
+        "open": 33471.93,
+        "high": 33471.93,
+        "low": 33471.93,
+        "close": 33471.93,
+        "volume": 0.5
+    },
+    "strategy": {
+        "position_size": 0,
+        "order_action": "sell",
+        "order_contracts": 0.005846,
+        "order_price": 33471.93,
+        "order_id": "Close entry(s) order My bot",
+        "market_position": "flat",
+        "market_position_size": 0,
+        "prev_market_position": "long",
+        "prev_market_position_size": 0.005846
+    }
+}
